@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/4ppe/Learn-Weather-with-Node.js-Express.js#readme",
   "dependencies": {
+    "ejs": "^2.6.2",
     "express": "^4.17.1"
   }
 }
