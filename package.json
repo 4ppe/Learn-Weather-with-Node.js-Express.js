@@ -1,0 +1,19 @@
+{
+  "name": "learn-weather-with-node.js-express",
+  "version": "1.0.0",
+  "description": "Learn Weather with Node.js, Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4ppe/Learn-Weather-with-Node.js-Express.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4ppe/Learn-Weather-with-Node.js-Express.js/issues"
+  },
+  "homepage": "https://github.com/4ppe/Learn-Weather-with-Node.js-Express.js#readme"
+}
