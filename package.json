@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/4ppe/Learn-Weather-with-Node.js-Express.js/issues"
   },
-  "homepage": "https://github.com/4ppe/Learn-Weather-with-Node.js-Express.js#readme"
+  "homepage": "https://github.com/4ppe/Learn-Weather-with-Node.js-Express.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
